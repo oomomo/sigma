@@ -3526,3 +3526,17 @@ https://www.virustotal.com/gui/file/39102fb7bb6a74a9c8cb6d46419f9015b381199ea852
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc742107(v=ws.11)
 https://www.virustotal.com/gui/file/483fafc64a2b84197e1ef6a3f51e443f84dc5742602e08b9e8ec6ad690b34ed0/behavior
 https://www.rnbo.gov.ua/files/2023_YEAR/CYBERCENTER/november/APT29%20attacks%20Embassies%20using%20CVE-2023-38831%20-%20report%20en.pdf
+https://medium.com/@msuiche/the-nsa-compromised-swift-network-50ec3000b195
+https://tria.ge/231023-lpw85she57/behavioral2
+https://www.sans.org/cyber-security-summit/archives
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-6281
+https://developers.google.com/admin-sdk/reports/v1/appendix/activity/admin-application-settings
+https://unit42.paloaltonetworks.com/chromeloader-malware/
+https://github.com/EmpireProject/PSInject
+https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/security/a1/sec-a1-cr-book/sec-a1-cr-book_chapter_0111.html
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent?view=powershell-7.3
+https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b20538/Pikabot_30.10.2023.txt
+https://www.manageengine.com/products/desktop-central/os-imaging-deployment/media-is-write-protected.html
+https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
+https://gist.github.com/nasbench/9a1ba4bc7094ea1b47bc42bf172961af
+https://www.group-ib.com/blog/hunting-for-ttps-with-prefetch-files/
